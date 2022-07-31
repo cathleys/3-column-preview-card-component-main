@@ -34,8 +34,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/html-css-flexbox-small-practice-project-bVo5AwuDZ9
+
+- Live Site URL: https://cathleys.github.io/3-column-preview-card-component-main/
 
 ## My process
 
